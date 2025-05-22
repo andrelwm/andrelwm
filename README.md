@@ -1,10 +1,10 @@
-- 👋 Ooi, me chamo André
-- 👀 Tenho interesse em desenvolvimento de sistemas em geral
-- 🌱 Estou aprendendo muita coisa ultimamente: HTML, CSS, JS, Python..
-- 💞️ Estou querendo colaborar com desenvolvimento web (front-end de preferência)
+- 👋 Ooi, me chamo André!
+- 👀 Tenho interesse em análise e desenvolvimento de sistemas em geral;
+- 🌱 Estou aprendendo muita coisa ultimamente: HTML, CSS, JS, Python, PL/SQL, Oracle..
+- 💞️ Tenho criado muita intimidade com Análise de Dados;
 - 📫 Pode me achar em vários lugares mas de preferência aqui :)
 
-Estudante de Análise e Desenvolvimento de Sistemas pela UniFBV Wyden. Atualmente sou estagiário na Fundação Altino Ventura na área de Análise de Banco de Dados.
+Formado em Análise e Desenvolvimento de Sistemas pela UniFBV Wyden. Atualmente sou Analista Desenvolvedor Júnior na Fundação Altino Ventura.
 
 <!---
 andrelwm/andrelwm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
